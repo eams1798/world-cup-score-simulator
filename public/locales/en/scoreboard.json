@@ -1,0 +1,16 @@
+{
+    "Team": "Team",
+    "Pts": "Pts",
+    "MP": "MP",
+    "W": "W",
+    "D": "D",
+    "L": "L",
+    "GF": "GF",
+    "GA": "GA",
+    "GD": "GD",
+    "Effct": "%Effct",
+    "Q": "Q",
+    "final-title": "Final Scoreboard",
+    "Champion": "Champion",
+    "notdefined": "Not defined yet"
+}

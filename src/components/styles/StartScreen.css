@@ -1,0 +1,43 @@
+.start-screen {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../animations/introQatar2022.gif');
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .start-screen.screen-hidden {
+    animation: hideTop 0.5s forwards;
+  }
+  
+  @keyframes hideTop {
+    0% {
+      visibility: visible;
+      opacity: 100%;
+      top: 0%;
+    }
+    100% {
+      visibility: hidden;
+      opacity: 0%;
+      top: -100%;
+    }
+  }
+  
+  button.btn-start {
+    position: absolute;
+    top: 90%;
+    background: none;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    font-size: 25px;
+  }
+  
+  button.btn-start:hover {
+    background: none;
+    text-shadow: 0px 0px 20px white
+  }

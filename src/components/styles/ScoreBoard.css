@@ -1,0 +1,118 @@
+
+.item-scoreboard {
+	text-align: center;
+}
+
+@media screen and (min-width: calc(40em + 1px)) {
+
+	th.item-nameteam {
+		text-align: left;
+	}
+
+	.item-nameteam {
+		width: 100px;
+	}
+
+	.item-scoreboard {
+		width: 8%;
+	}
+
+	.responsiveTable {
+	 width: 480px;
+	}
+
+	tr {
+		height: 50px;
+	}
+	
+	.item-flag {
+		width: 50px;
+		position: relative;
+		left: -50px;
+	}
+
+	.item-original-flag {
+		display: block;
+		top: -16px;
+		left: 32px;
+	}
+
+	.item-responsive-flag {
+		display: none;
+	}
+
+	tr.qualified::after {
+		background-color: lightgreen;
+		width: 36.47px;
+		height: 50px;
+		content: attr(aftercontent);
+		display: flex;
+		justify-content: center;
+    	align-items: center;
+		position: absolute;
+	}
+}
+
+@media screen and (max-width: 40em) {
+	.responsiveTable {
+	 width: 250px;
+	}
+
+	.responsiveTable td.pivoted {
+		font-size: 18px;
+		display: flex !important;
+		flex-wrap: wrap;
+		align-content: center;
+		justify-content: center;
+		flex-direction: column;
+		padding-left: 20% !important;
+	}
+
+	.responsiveTable td .tdBefore {
+		width: 30% !important;
+	}
+
+	.svg-border-flag.item-original-flag {
+		top: -5000vh;
+		left: -100vw;
+	}
+
+	.flag-container {
+		width: 50px;
+		height: 50px;
+		margin-right: 8px;
+	}
+
+	.svg-border-flag.item-responsive-flag {
+		display: block;
+		position: relative;
+
+		width: 65px;
+		height: 65px;
+		position: absolute;
+		top: -9px;
+		left: 0px;
+	}
+
+	.flag-inline {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		align-content: center;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.td-after {
+		position: relative;
+		left: 25px;
+	}
+
+	.flag-inline.td-after {
+		left: 10px;
+	}
+
+	tr.qualified {
+		border: 2px solid lightgreen !important;
+	}
+}

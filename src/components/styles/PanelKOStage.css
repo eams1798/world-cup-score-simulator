@@ -1,0 +1,73 @@
+.matches-finalstage-inline {
+    display: flex;
+    flex-direction: column;
+}
+
+.matchGoals, .matchPenalties {
+    display: flex;
+}
+
+.champion-container {
+    width: 90%;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+
+.champion {
+    width: 100%;
+}
+
+.champion-container p {
+    margin-top: 10px;
+}
+
+input[disabled] {
+    background-color: rgb(230, 224, 228);
+    border-left: 1px solid rgb(56, 69, 88);
+    border-right: 1px solid rgb(56, 69, 88);
+}
+
+input[disabled] + p {
+    background-color: rgb(230, 224, 228);
+    height: 100%;
+}
+
+.with-penalty {
+    border-bottom: none;
+    border-radius: 0;
+}
+
+.match-penalties {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(230, 224, 228);
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.paragraph-container {
+    position: relative;
+    left: -30%;
+    top: -30%;
+}
+
+.div-void {
+    width: 100%;
+    position: relative;
+    display: flex;
+    overflow: auto;
+    justify-content: center;
+}
+
+button[disabled]:hover {
+    background-color: inherit;
+}
+
+.penalty-details {
+    background-color: rgb(205, 196, 202);
+}

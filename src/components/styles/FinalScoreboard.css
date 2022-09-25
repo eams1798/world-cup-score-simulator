@@ -1,0 +1,54 @@
+@media screen and (min-width: calc(40em + 1px)) {
+    .final-table {
+        width: 600px;
+    }
+
+    #FinalScoreboard {
+        width: 620px;
+    }
+}
+
+
+@media screen and (max-width: 40em) {
+    .final-table, #FinalScoreboard {
+        width: 250px;
+    }
+
+    #FinalScoreboard {
+        width: 280px;
+    }
+}
+
+#FinalScoreboard {
+    border: 3px solid rgb(155, 15, 0);
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+#FinalScoreboard summary {
+    text-align: center;
+    font-weight: bold;
+    margin: 5px 0 0 0;
+    height: 25px;
+    color: rgb(155, 15, 0);
+}
+
+#FinalScoreboard summary::marker {
+    content: "";
+}
+
+#FinalScoreboard[open] summary {
+    border-bottom: 3px solid rgb(155, 15, 0);
+}
+
+.centered-table {
+    margin-top: 15px;
+}
+
+.scoreboard-champion-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 15px 0 15px 0;
+}

@@ -1,0 +1,15 @@
+.svg-border-flag {
+    transform: rotate(-337.5deg);
+    position: absolute;
+    height: 80px;
+}
+
+.innerFlag {
+    transform: rotate(-22.5deg);
+}
+
+.svg-border-flag path {
+    stroke: rgb(138, 21, 56);
+    stroke-linejoin: bevel;
+    stroke-width: 14px;
+}
