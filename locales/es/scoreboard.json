@@ -1,0 +1,16 @@
+{
+    "Team": "Equipo",
+    "Pts": "Pts",
+    "MP": "PJ",
+    "W": "PG",
+    "D": "PE",
+    "L": "PP",
+    "GF": "GF",
+    "GA": "GC",
+    "GD": "DG",
+    "Effct": "%Efect",
+    "Q": "C",
+    "final-title": "Tabla Final",
+    "Champion": "Campeón",
+    "notdefined": "Por definir"
+}

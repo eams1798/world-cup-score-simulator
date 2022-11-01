@@ -1,0 +1,12 @@
+{
+    "Group-Stage": "Group Stage",
+    "Group": "Group",
+    "Knockout-Stage": "Knockout Stage",
+    "Round-of-16": "Round of 16",
+    "Quarter-Finals": "Quarter-Finals",
+    "Semifinals": "Semifinals",
+    "Third-place-play-off": "Third-place play-off",
+    "Final": "Final",
+    "Penalties": "Penalties",
+    "error-penalties": "A match cannot be tied on penalties"
+}
