@@ -35,3 +35,16 @@
   flex-wrap: wrap;
   justify-content: space-around;
 }
+
+/* .App-footer {
+  position: absolute;
+  background-color: #101010;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+ */

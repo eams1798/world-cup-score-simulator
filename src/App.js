@@ -78,6 +78,14 @@ function SuspensedApp() {
         <TabBox enableScoreboard={enableScoreboard} defineChampion={defineChampion} champion={champion}/>
         <FinalScoreboard teams={teamsFinalScore} enabled={finalScoreboardEnabled} champion={champion}/>
       </div>
+      {/* <footer className="App-footer">
+        <p className='text-color2'>Repo of this project </p><a
+          href="https://github.com/eams1798/portfolio"
+          target="_blank"
+          rel="noreferrer">
+            here.
+        </a>
+      </footer> */}
     </Context.Provider>
   );
 }

@@ -1,5 +1,6 @@
 {
   "name": "world-cup-score-simulator",
+  "homepage": "http://misotideas.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

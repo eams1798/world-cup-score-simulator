@@ -1,7 +1,7 @@
 .start-screen {
     width: 100vw;
     height: 100vh;
-    background-image: url('../animations/introQatar2022.gif');
+    background-image: url('../images/introQatar2022.png');
     background-size: cover;
     background-position: center;
     position: fixed;
