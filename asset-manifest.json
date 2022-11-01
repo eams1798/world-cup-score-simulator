@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/world-cup-score-simulator/static/css/main.ddfc2a97.css",
-    "main.js": "/world-cup-score-simulator/static/js/main.f9a13915.js",
+    "main.js": "/world-cup-score-simulator/static/js/main.e156bea9.js",
     "static/media/champ-sn.png": "/world-cup-score-simulator/static/media/champ-sn.61fce9b3b69e8d995697.png",
     "static/media/champ-ca.png": "/world-cup-score-simulator/static/media/champ-ca.43afb093c0eb9aacaac3.png",
     "static/media/champ-fr.png": "/world-cup-score-simulator/static/media/champ-fr.07ac27a9bd3c2e481c11.png",
@@ -54,10 +54,10 @@
     "static/media/getFetch.cjs": "/world-cup-score-simulator/static/media/getFetch.c780682470504fffbd04.cjs",
     "static/media/logo-qa.png:Zone.Identifier": "/world-cup-score-simulator/static/media/logo-qa.png:Zone.9bd7067f622d66bbd9af.Identifier",
     "main.ddfc2a97.css.map": "/world-cup-score-simulator/static/css/main.ddfc2a97.css.map",
-    "main.f9a13915.js.map": "/world-cup-score-simulator/static/js/main.f9a13915.js.map"
+    "main.e156bea9.js.map": "/world-cup-score-simulator/static/js/main.e156bea9.js.map"
   },
   "entrypoints": [
     "static/css/main.ddfc2a97.css",
-    "static/js/main.f9a13915.js"
+    "static/js/main.e156bea9.js"
   ]
 }
