@@ -41,3 +41,11 @@
     background: none;
     text-shadow: 0px 0px 20px white
   }
+
+  @media screen and (max-width: 40em) {
+    .start-screen {
+      background-size: 150%;
+      background-repeat: no-repeat;
+      background-color: rgb(138, 21, 56) ;
+    }
+  }

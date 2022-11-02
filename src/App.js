@@ -92,7 +92,7 @@ function SuspensedApp() {
 
 function App() {
   return (
-    <Suspense fallback="loading dependencies">
+    <Suspense fallback="Loading dependencies. If the page doesn't load, turn off Google auto translation or another translation service you use and reload the page to access.">
       <SuspensedApp />
     </Suspense>
   );
