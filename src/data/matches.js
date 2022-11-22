@@ -2,8 +2,8 @@ const listMatches = [{
     id: 1,
     group: 'A',
     match: 1,
-    home: { name: 'Qatar', goals: null },
-    away: { name: 'Ecuador', goals: null },
+    home: { name: 'Qatar', goals: 0 },
+    away: { name: 'Ecuador', goals: 2 },
     date: '20 November 2022 19:00',
     stadium: 'albayt'
   },
@@ -11,8 +11,8 @@ const listMatches = [{
     id: 2,
     group: 'A',
     match: 1,
-    home: { name: 'Senegal', goals: null },
-    away: { name: 'Netherlands', goals: null },
+    home: { name: 'Senegal', goals: 0 },
+    away: { name: 'Netherlands', goals: 2 },
     date: '21 November 2022 19:00',
     stadium: 'althumama'
   },
@@ -56,8 +56,8 @@ const listMatches = [{
     id: 7,
     group: 'B',
     match: 1,
-    home: { name: 'England', goals: null },
-    away: { name: 'Iran', goals: null },
+    home: { name: 'England', goals: 6 },
+    away: { name: 'Iran', goals: 2 },
     date: '21 November 2022 16:00',
     stadium: 'khalifa'
   },
@@ -65,8 +65,8 @@ const listMatches = [{
     id: 8,
     group: 'B',
     match: 1,
-    home: { name: 'United States', goals: null },
-    away: { name: 'Wales', goals: null },
+    home: { name: 'United States', goals: 1 },
+    away: { name: 'Wales', goals: 1 },
     date: '21 November 2022 22:00',
     stadium: 'ahmad'
   },
