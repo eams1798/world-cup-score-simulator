@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/world-cup-score-simulator/static/css/main.cafeb812.css",
-    "main.js": "/world-cup-score-simulator/static/js/main.7cd44c0e.js",
+    "main.css": "/world-cup-score-simulator/static/css/main.152d4734.css",
+    "main.js": "/world-cup-score-simulator/static/js/main.7ace9b22.js",
     "static/media/champ-sn.png": "/world-cup-score-simulator/static/media/champ-sn.61fce9b3b69e8d995697.png",
     "static/media/champ-ca.png": "/world-cup-score-simulator/static/media/champ-ca.43afb093c0eb9aacaac3.png",
     "static/media/champ-fr.png": "/world-cup-score-simulator/static/media/champ-fr.07ac27a9bd3c2e481c11.png",
@@ -20,6 +20,7 @@
     "static/media/champ-cr.png": "/world-cup-score-simulator/static/media/champ-cr.8f4373d801bc709ca85f.png",
     "static/media/champ-jp.png": "/world-cup-score-simulator/static/media/champ-jp.ca27ea3f30a7c6f350e5.png",
     "static/media/champ-ar.png": "/world-cup-score-simulator/static/media/champ-ar.e87343bec6b956113e57.png",
+    "static/media/introQatar2022.png": "/world-cup-score-simulator/static/media/introQatar2022.8d0af3b3ab1d2855eb2b.png",
     "static/media/champ-es.png": "/world-cup-score-simulator/static/media/champ-es.9170e879683bba7033b3.png",
     "static/media/champ-rs.png": "/world-cup-score-simulator/static/media/champ-rs.4955d8902508725ee2ea.png",
     "static/media/champ-en.png": "/world-cup-score-simulator/static/media/champ-en.7040bb5379a2dd9f685d.png",
@@ -29,7 +30,6 @@
     "static/media/champ-tn.png": "/world-cup-score-simulator/static/media/champ-tn.377331155567361d91c7.png",
     "static/media/champ-ir.png": "/world-cup-score-simulator/static/media/champ-ir.3bd0f9e16f1ea944f871.png",
     "static/media/champ-pt.png": "/world-cup-score-simulator/static/media/champ-pt.181d3b77ecc7860ebc2a.png",
-    "static/media/introQatar2022.png": "/world-cup-score-simulator/static/media/introQatar2022.36bc9e0f041822709310.png",
     "static/media/champ-mx.png": "/world-cup-score-simulator/static/media/champ-mx.cf9da75c45020b08ed23.png",
     "static/media/champ-pl.png": "/world-cup-score-simulator/static/media/champ-pl.053c7fdbf7f9a12fc000.png",
     "static/media/champ-ec.png": "/world-cup-score-simulator/static/media/champ-ec.ee1ed1b91c3a23c60ec6.png",
@@ -53,11 +53,11 @@
     "index.html": "/world-cup-score-simulator/index.html",
     "static/media/getFetch.cjs": "/world-cup-score-simulator/static/media/getFetch.c780682470504fffbd04.cjs",
     "static/media/logo-qa.png:Zone.Identifier": "/world-cup-score-simulator/static/media/logo-qa.png:Zone.9bd7067f622d66bbd9af.Identifier",
-    "main.cafeb812.css.map": "/world-cup-score-simulator/static/css/main.cafeb812.css.map",
-    "main.7cd44c0e.js.map": "/world-cup-score-simulator/static/js/main.7cd44c0e.js.map"
+    "main.152d4734.css.map": "/world-cup-score-simulator/static/css/main.152d4734.css.map",
+    "main.7ace9b22.js.map": "/world-cup-score-simulator/static/js/main.7ace9b22.js.map"
   },
   "entrypoints": [
-    "static/css/main.cafeb812.css",
-    "static/js/main.7cd44c0e.js"
+    "static/css/main.152d4734.css",
+    "static/js/main.7ace9b22.js"
   ]
 }
