@@ -110,8 +110,8 @@ const listMatches = [{
     id: 13,
     group: 'C',
     match: 1,
-    home: { name: 'Argentina', goals: null },
-    away: { name: 'Saudi Arabia', goals: null },
+    home: { name: 'Argentina', goals: 1 },
+    away: { name: 'Saudi Arabia', goals: 2 },
     date: '22 November 2022 13:00',
     stadium: 'lusail'
   },
@@ -119,8 +119,8 @@ const listMatches = [{
     id: 14,
     group: 'C',
     match: 1,
-    home: { name: 'Mexico', goals: null },
-    away: { name: 'Poland', goals: null },
+    home: { name: 'Mexico', goals: 0 },
+    away: { name: 'Poland', goals: 0 },
     date: '22 November 2022 19:00',
     stadium: 's974'
   },
@@ -164,8 +164,8 @@ const listMatches = [{
     id: 19,
     group: 'D',
     match: 1,
-    home: { name: 'France', goals: null },
-    away: { name: 'Australia', goals: null },
+    home: { name: 'France', goals: 4 },
+    away: { name: 'Australia', goals: 1 },
     date: '22 November 2022 22:00',
     stadium: 'aljanoub'
   },
@@ -173,8 +173,8 @@ const listMatches = [{
     id: 20,
     group: 'D',
     match: 1,
-    home: { name: 'Denmark', goals: null },
-    away: { name: 'Tunisia', goals: null },
+    home: { name: 'Denmark', goals: 0 },
+    away: { name: 'Tunisia', goals: 0 },
     date: '22 November 2022 16:00',
     stadium: 'education'
   },
