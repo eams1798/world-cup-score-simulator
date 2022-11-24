@@ -23,7 +23,7 @@ function MatchBoard({teamsGroup, matchesGroup}) {
 				&& (match.home.name === teamName || match.away.name === teamName));
 		const restOfMatches = matches.filter( match => match !== updatedMatch );
 
-		const goals = nGoals !== '' && !(Number.isNaN(parseInt(nGoals))) ? parseInt(nGoals) : null;
+		const goals = nGoals !== '' && !(Number.isNaN(parseInt(nGoals))) && nGoals >= 0 ? parseInt(nGoals) : null;
 
 		if (isHomeTeam === true) {
 			updatedMatch = {...updatedMatch, home: {name: teamName, goals: goals}};
