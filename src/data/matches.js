@@ -326,8 +326,8 @@ const listMatches = [{
     id: 37,
     group: 'G',
     match: 1,
-    home: { name: 'Brazil', goals: null },
-    away: { name: 'Serbia', goals: null },
+    home: { name: 'Brazil', goals: 2 },
+    away: { name: 'Serbia', goals: 0 },
     date: '24 November 2022 22:00',
     stadium: 'lusail'
   },
@@ -335,8 +335,8 @@ const listMatches = [{
     id: 38,
     group: 'G',
     match: 1,
-    home: { name: 'Switzerland', goals: null },
-    away: { name: 'Cameroon', goals: null },
+    home: { name: 'Switzerland', goals: 1 },
+    away: { name: 'Cameroon', goals: 0 },
     date: '24 November 2022 13:00',
     stadium: 'aljanoub'
   },
@@ -380,8 +380,8 @@ const listMatches = [{
     id: 43,
     group: 'H',
     match: 1,
-    home: { name: 'Portugal', goals: null },
-    away: { name: 'Ghana', goals: null },
+    home: { name: 'Portugal', goals: 3 },
+    away: { name: 'Ghana', goals: 2 },
     date: '24 November 2022 19:00',
     stadium: 's974'
   },
@@ -389,8 +389,8 @@ const listMatches = [{
     id: 44,
     group: 'H',
     match: 1,
-    home: { name: 'Uruguay', goals: null },
-    away: { name: 'South Korea', goals: null },
+    home: { name: 'Uruguay', goals: 0 },
+    away: { name: 'South Korea', goals: 0 },
     date: '24 November 2022 16:00',
     stadium: 'education'
   },
