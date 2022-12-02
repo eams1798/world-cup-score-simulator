@@ -254,8 +254,8 @@ const listMatches = [{
     id: 29,
     group: 'E',
     match: 3,
-    home: { name: 'Japan', goals: null },
-    away: { name: 'Spain', goals: null },
+    home: { name: 'Japan', goals: 2 },
+    away: { name: 'Spain', goals: 1 },
     date: '1 December 2022 22:00',
     stadium: 'khalifa'
   },
@@ -263,8 +263,8 @@ const listMatches = [{
     id: 30,
     group: 'E',
     match: 3,
-    home: { name: 'Costa Rica', goals: null },
-    away: { name: 'Germany', goals: null },
+    home: { name: 'Costa Rica', goals: 2 },
+    away: { name: 'Germany', goals: 4 },
     date: '1 December 2022 22:00',
     stadium: 'albayt'
   },
@@ -308,8 +308,8 @@ const listMatches = [{
     id: 35,
     group: 'F',
     match: 3,
-    home: { name: 'Croatia', goals: null },
-    away: { name: 'Belgium', goals: null },
+    home: { name: 'Croatia', goals: 0 },
+    away: { name: 'Belgium', goals: 0 },
     date: '1 December 2022 18:00',
     stadium: 'ahmad'
   },
@@ -317,8 +317,8 @@ const listMatches = [{
     id: 36,
     group: 'F',
     match: 3,
-    home: { name: 'Canada', goals: null },
-    away: { name: 'Morocco', goals: null },
+    home: { name: 'Canada', goals: 1 },
+    away: { name: 'Morocco', goals: 2 },
     date: '1 December 2022 18:00',
     stadium: 'althumama'
   },
